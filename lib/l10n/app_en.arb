@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "title": "Flutter Weather App",
+  "current_weather": "Current Weather",
+  "temperature": "Temperature",
+  "weather": "Weather",
+  "humidity": "Humidity",
+  "wind_speed": "Wind Speed",
+  "sun_rise": "Sun Rise",
+  "sun_set": "Sun Set",
+  "language": "Language",
+  "base": "Base",
+  "coordinates": "Coordinates",
+  "visibility": "Visibility",
+  "no_data_available": "No data available",
+  "error": "Error",
+  "location_not_enabled": "Location not enabled",
+  "location_permissions_denied_forever": "Location permissions are denied forever",
+  "location_permission_denied": "Location permission is denied",
+  "loading": "Loading"
+}
