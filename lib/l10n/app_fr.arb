@@ -1,0 +1,21 @@
+{
+  "@@locale": "fr",
+  "title": "Application Météo Flutter",
+  "current_weather": "Météo Actuelle",
+  "temperature": "Température",
+  "weather": "Temps",
+  "humidity": "Humidité",
+  "wind_speed": "Vitesse du Vent",
+  "sun_rise": "Lever du Soleil",
+  "sun_set": "Coucher du Soleil",
+  "language": "Langue",
+  "base": "Base",
+  "coordinates": "Coordonnées",
+  "visibility": "Visibilité",
+  "no_data_available": "Pas de données disponibles",
+  "error": "Erreur",
+  "location_not_enabled": "Emplacement non activé",
+  "location_permissions_denied_forever": "Les autorisations de localisation sont refusées pour toujours",
+  "location_permission_denied": "Autorisation de localisation refusée",
+  "loading": "Chargement"
+}

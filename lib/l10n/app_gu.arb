@@ -1,0 +1,21 @@
+{
+  "@@locale": "gu",
+  "title": "ફ્લટર હવામાન એપ",
+  "current_weather": "વર્તમાન હવામાન",
+  "temperature": "તાપમાન",
+  "weather": "હવામાન",
+  "humidity": "આદસરવાત",
+  "wind_speed": "વાયુની ગતિ",
+  "sun_rise": "સૂર્યોદય",
+  "sun_set": "સૂર્યાસ્ત",
+  "language": "ભાષા",
+  "base": "આધાર",
+  "coordinates": "સંયોજનો",
+  "visibility": "દૃશ્યતા",
+  "no_data_available": "માહિતી ઉપલબ્ધ નથી",
+  "error": "ભૂલ",
+  "location_not_enabled": "સ્થાન સક્રિય નથી",
+  "location_permissions_denied_forever": "સ્થાન પરવાનગી અમર્યાદિત છે",
+  "location_permission_denied": "સ્થાન પરવાનગી નકારી છે",
+  "loading": "લોડ કરાઈ રહ્યું છે"
+}

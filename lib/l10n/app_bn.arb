@@ -1,0 +1,21 @@
+{
+  "@@locale": "bn",
+  "title": "ফ্লাটার হয়রানি অ্যাপ",
+  "current_weather": "বর্তমান আবহাওয়া",
+  "temperature": "তাপমাত্রা",
+  "weather": "আবহাওয়া",
+  "humidity": "আর্দ্রতা",
+  "wind_speed": "বায়ুর গতি",
+  "sun_rise": "সূর্যোদয়",
+  "sun_set": "সূর্যাস্ত",
+  "language": "ভাষা",
+  "base": "ভিত্তি",
+  "coordinates": "সংযোজন",
+  "visibility": "দৃশ্যমানতা",
+  "no_data_available": "কোন তথ্য পাওয়া যায়নি",
+  "error": "ত্রুটি",
+  "location_not_enabled": "অবস্থান সক্রিয় না",
+  "location_permissions_denied_forever": "অবস্থান অনুমতি চিরতরে অস্বীকৃত",
+  "location_permission_denied": "অবস্থান অনুমতি অস্বীকৃত",
+  "loading": "লোড হচ্ছে"
+}

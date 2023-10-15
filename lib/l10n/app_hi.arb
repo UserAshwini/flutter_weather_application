@@ -1,0 +1,21 @@
+{
+  "@@locale": "hi",
+  "title": "फ्लटर मौसम ऐप",
+  "current_weather": "वर्तमान मौसम",
+  "temperature": "तापमान",
+  "weather": "मौसम",
+  "humidity": "नमी",
+  "wind_speed": "हवा की गति",
+  "sun_rise": "सूर्योदय",
+  "sun_set": "सूर्यास्त",
+  "language": "भाषा",
+  "base": "आधार",
+  "coordinates": "निर्देशांक",
+  "visibility": "दृश्यता",
+  "no_data_available": "कोई डेटा उपलब्ध नहीं है",
+  "error": "त्रुटि",
+  "location_not_enabled": "स्थान सक्षम नहीं है",
+  "location_permissions_denied_forever": "स्थान अनुमतियाँ सदैव के लिए निषेधित हैं",
+  "location_permission_denied": "स्थान अनुमति निषेधित है",
+  "loading": "लोड हो रहा है"
+}
